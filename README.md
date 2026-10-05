@@ -42,9 +42,9 @@ Below is a tabular comparison of prominent SaaS and hosted Financial Management 
 
 ## 🔓 Open-Source Financial Management & ERP Repositories
 
-Below are production-ready **Open-Source Financial Management & ERP** software projects sorted by GitHub star count (Descending):
+Below are production-ready **Open-Source Financial Management & ERP** software projects sorted by GitHub Stars_Count (Descending):
 
-| Repository 📦 | Description & Key Financial Features ⚙️ | Stars ⭐ |
+| Repository 📦 | Description & Key Financial Features ⚙️ | GitHub_Stars ⭐ |
 |:---|:---|:---:|
 | **[ERPNext](https://github.com/frappe/erpnext)** | **Leading full-suite open-source ERP.** Enterprise accounting with formula-driven financial reports, custom chart of accounts, multi-currency GL, automated closing stock postings, and IFRS compliance. Built on Frappe Framework (Python/JS). GPL-3.0. | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
 | **[Odoo Community](https://github.com/odoo/odoo)** | **Comprehensive suite of open-source business apps.** Includes basic double-entry accounting, invoicing, vendor bills, payment matching, and bank synchronization. Built on Python/JS. LGPL-3.0. | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
